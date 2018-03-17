@@ -1,1 +1,2 @@
-# brain_tumor_segmentation
+# minor
+minor1
